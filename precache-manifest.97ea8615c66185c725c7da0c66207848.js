@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dab72f5cb66ffe377d43cce2e2a3183",
+    "revision": "afdc4b17568a9b0e4684f7c79fbf3939",
     "url": "/hulu/index.html"
   },
   {
