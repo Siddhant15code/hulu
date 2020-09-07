@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63be4cb093e7daf0ea31b53acbd2478d",
+    "revision": "98b5237d2478795760fea5d1c154e46d",
     "url": "/hulu/index.html"
   },
   {
-    "revision": "a138bb3b9f45e66d9bb4",
-    "url": "/hulu/static/css/main.0cb8b78b.chunk.css"
+    "revision": "6c83b2f06447bc6a87e5",
+    "url": "/hulu/static/css/main.4891564b.chunk.css"
   },
   {
     "revision": "39d7cfb643876f969369",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hulu/static/js/2.713fdbdd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a138bb3b9f45e66d9bb4",
+    "revision": "6c83b2f06447bc6a87e5",
     "url": "/hulu/static/js/main.beb78396.chunk.js"
   },
   {
